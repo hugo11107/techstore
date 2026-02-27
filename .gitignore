@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+npm-debug.log
+.DS_Store
+
+# General Development
+*.log
+*.env
+*.tmp
+*.bak
+*.swp
